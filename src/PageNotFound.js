@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import notFoundImage from './—Pngtree—error 404 page not found_6681621.png';
+import notFoundImage from './notfound.png';
 
 const PageNotFound = () => {
   return (
